@@ -1,27 +1,52 @@
-# Hey, I'm Jacob 👋
-
-<!--
-**TimmyRB/TimmyRB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <div width="100%">
-    <!-- Statistics -->
-    <div align="right" width="50%" height="240px">
-        <img align="right" width="50%" height="100%" src="https://raw.githubusercontent.com/TimmyRB/github-stats/master/generated/languages.svg?token=AEU2EAJDAACH343ZWR3XUT3BBNKJ2">
+    <div align="right" width="50%">
+        <img align="right" width="50%" height="100%" src="https://raw.githubusercontent.com/TimmyRB/github-stats/master/generated/overview.svg?token=AEU2EAOQZXTQ56SR5ZHSUQ3BBNKOU">
     </div>
-    <!-- Quick Info -->
-    <div align="left" width="50%" height="240px">
-        <img align="left" width="50%" height="100%" src="https://raw.githubusercontent.com/TimmyRB/github-stats/master/generated/overview.svg?token=AEU2EAOQZXTQ56SR5ZHSUQ3BBNKOU">
+    <div align="left" width="50%">
+        <h1>Hey, I'm Jacob 👋</h1>
+        <ul>
+            <li>Sheridan College SDNE student</li>
+            <li>Experienced full stack developer</li>
+            <li>9+ years of coding</li>
+            <li>with popular frameworks, tools & languages</li>
+        </ul>
+        <br>
     </div>
 </div>
+
+<div width="100%">
+    <div align="right" width="50%">
+        <img align="right" width="50%" src="https://raw.githubusercontent.com/TimmyRB/github-stats/master/generated/languages.svg?token=AEU2EAJDAACH343ZWR3XUT3BBNKJ2">
+    </div>
+    <div align="left" width="50%">
+        <br>
+        <h2>Active projects</h2>
+        <ul>
+            <li><strong>Partii</strong>
+                <br>built with <strong>Flutter</strong>, <strong>Dart</strong> & <strong>GoLang</strong>
+            </li>
+            <li><strong>Folio</strong>
+                <br>built with <strong>Flutter</strong> & <strong>Dart</strong>
+            </li>
+            <li><strong>SydneyBot</strong>
+                <br>built with <strong>TypeScript</strong>
+            </li>
+            <li><strong>Snapkit</strong>
+                <br>built with <strong>Flutter</strong> & <strong>Dart</strong>
+            </li>
+        </ul>
+        <br>
+    </div>
+</div>
+
+<details>
+<summary>Links & Socials</summary>
+<br>
+    
+[Personal Website](https://JacobBrasil.com/)
+    
+[LinkedIn](https://www.linkedin.com/in/jacob-brasil/)
+    
+[Instagram](https://instagram.com/jacob_brasil/)
+    
+</details>
