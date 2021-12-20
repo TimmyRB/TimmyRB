@@ -1,6 +1,6 @@
 <div width="100%">
     <div align="right" width="50%">
-        <img align="right" width="50%" height="100%" src="https://raw.githubusercontent.com/TimmyRB/github-stats/master/generated/overview.svg?token=AEU2EAOQZXTQ56SR5ZHSUQ3BBNKOU">
+        <img align="right" width="50%" height="100%" src="https://raw.githubusercontent.com/TimmyRB/github-stats/34a99dad215462d06cba5b4e0ef42143067f7dc1/generated/overview.svg">
     </div>
     <div align="left" width="50%">
         <h1>Hey, I'm Jacob 👋</h1>
@@ -16,7 +16,7 @@
 
 <div width="100%">
     <div align="right" width="50%">
-        <img align="right" width="50%" src="https://raw.githubusercontent.com/TimmyRB/github-stats/master/generated/languages.svg?token=AEU2EAJDAACH343ZWR3XUT3BBNKJ2">
+        <img align="right" width="50%" src="https://raw.githubusercontent.com/TimmyRB/github-stats/34a99dad215462d06cba5b4e0ef42143067f7dc1/generated/languages.svg">
     </div>
     <div align="left" width="50%">
         <br>
